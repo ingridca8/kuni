@@ -14,7 +14,7 @@ Este prototipo se centra en:
 ## 🛠️ Tecnologías utilizadas
 - **HTML5**  
 - **CSS3**  
-- **JavaScript** (opcional según el prototipo)  
+- **Streamlit** 
 
 ## 📝 Licencia
 Este proyecto está bajo la licencia **Apache 2.0**, lo que permite usarlo, modificarlo y distribuirlo libremente con atribución.
